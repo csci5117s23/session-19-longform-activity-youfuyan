@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/session-19-longform-activity-youfuyan/static/css/main.6bd42557.css",
+    "main.js": "/session-19-longform-activity-youfuyan/static/js/main.2217aeea.js",
+    "static/js/787.c3abcb2d.chunk.js": "/session-19-longform-activity-youfuyan/static/js/787.c3abcb2d.chunk.js",
+    "static/media/husky.webp": "/session-19-longform-activity-youfuyan/static/media/husky.be8549e37378a4d4787b.webp",
+    "index.html": "/session-19-longform-activity-youfuyan/index.html",
+    "main.6bd42557.css.map": "/session-19-longform-activity-youfuyan/static/css/main.6bd42557.css.map",
+    "main.2217aeea.js.map": "/session-19-longform-activity-youfuyan/static/js/main.2217aeea.js.map",
+    "787.c3abcb2d.chunk.js.map": "/session-19-longform-activity-youfuyan/static/js/787.c3abcb2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bd42557.css",
+    "static/js/main.2217aeea.js"
+  ]
+}

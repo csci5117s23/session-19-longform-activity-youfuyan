@@ -1,4 +1,5 @@
 {
+  "homepage": "https://csci5117s23.github.io/session-19-longform-activity-youfuyan/",
   "name": "session-19-starter",
   "version": "0.1.0",
   "private": true,
@@ -42,6 +43,5 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  },
-  "homepage": "https://github.com/csci5117s23/session-19-longform-activity-youfuyan/"
+  }
 }
